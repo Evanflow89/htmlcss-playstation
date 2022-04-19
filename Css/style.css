@@ -1,4 +1,13 @@
 /*----------------
+     >BUTTONS
+----------------*/
+.btn_custom {
+    border-radius: 30px;
+    background-color: #363636;
+    color: white;
+}
+
+/*----------------
      COMMONS
 ----------------*/
 
