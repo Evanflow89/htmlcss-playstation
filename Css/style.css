@@ -1,0 +1,12 @@
+/*----------------
+     COMMONS
+----------------*/
+
+.header-top {
+    background-color: black;
+}
+
+.header-top img {
+    max-width: 80px;
+    background-color: black;
+}
