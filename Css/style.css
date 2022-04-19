@@ -1,10 +1,31 @@
 /*----------------
+     TEXT
+----------------*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    color: white;
+}
+
+.hero_top p {
+    color: white;
+}
+
+/*----------------
      >BUTTONS
 ----------------*/
 .btn_custom {
     border-radius: 30px;
     background-color: #363636;
     color: white;
+}
+
+.btn_hero1 {
+    border-radius: 30px;
+    background-color: #cd3d0f;
 }
 
 /*----------------
@@ -22,4 +43,19 @@
 
 .navbar {
     background-color: white;
+}
+
+.hero_top {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-position: center;
+
+}
+
+.logo_heroImg {
+    max-width: 200px;
+}
+
+.logo_content {
+    padding-top: 200px;
 }
