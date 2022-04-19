@@ -59,3 +59,13 @@ h1 {
 .logo_content {
     padding-top: 200px;
 }
+
+.img_button {
+    gap: 10px;
+    border-radius: 15px;
+}
+
+#imageBorder {
+    border: 2px solid #0072ce;
+    padding: 2px;
+}
