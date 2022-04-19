@@ -85,3 +85,23 @@ h5 {
 .main_content {
     padding-top: 150px;
 }
+
+.col_custom {
+    width: calc(100% / 5);
+    flex-wrap: wrap;
+}
+
+.col_custom:first-of-type {
+    border-bottom: 3px solid #0072ce;
+}
+
+@media screen and (max-width:576px) {
+    .col_custom {
+        width: calc(100% / 3);
+        flex-wrap: wrap;
+    }
+
+    .col_custom p {
+        display: none;
+    }
+}
