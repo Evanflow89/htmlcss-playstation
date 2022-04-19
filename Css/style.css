@@ -16,7 +16,8 @@ h5 {
     font-size: 14px;
 }
 
-.hero_top p {
+.hero_top p,
+.hero_middle p {
     color: white;
 }
 
@@ -64,12 +65,22 @@ h5 {
 
 }
 
+.hero_middle {
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
 .logo_heroImg {
     max-width: 200px;
 }
 
 .logo_content {
     padding-top: 200px;
+}
+
+.logo_contentMiddle {
+    padding-top: 80px;
 }
 
 .img_button {
