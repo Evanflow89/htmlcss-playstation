@@ -6,7 +6,8 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-h1 {
+h1,
+h4 {
     color: white;
 }
 
@@ -18,6 +19,10 @@ h5 {
 
 .hero_top p,
 .hero_middle p {
+    color: white;
+}
+
+.middle_section {
     color: white;
 }
 
@@ -105,6 +110,19 @@ h5 {
 .col_custom:first-of-type {
     border-bottom: 3px solid #0072ce;
 }
+
+.middle_section {
+    background-color: #1f1f1f;
+}
+
+.img_radius {
+    border-radius: 20px;
+}
+
+
+/*----------------
+     MEDIA Q
+----------------*/
 
 @media screen and (max-width:576px) {
     .col_custom {
