@@ -45,6 +45,12 @@ h5 {
 
 }
 
+.btn_Plus {
+    background-color: #d9dadc;
+    color: #2d64e6;
+    border: none;
+}
+
 /*----------------
      COMMONS
 ----------------*/
@@ -117,6 +123,16 @@ h5 {
 
 .img_radius {
     border-radius: 20px;
+}
+
+.ps_plus {
+    background-color: #bebcbb;
+}
+
+
+.content_psPlus img {
+    width: 100%;
+    max-width: 400px;
 }
 
 
