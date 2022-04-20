@@ -155,6 +155,11 @@ h5 {
     background-color: #161c3b;
 }
 
+.container_custom {
+    max-width: 768px;
+    margin: auto;
+}
+
 /*----------------
      MEDIA Q
 ----------------*/
