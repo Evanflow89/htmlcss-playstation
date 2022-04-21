@@ -34,6 +34,11 @@ h5 {
     color: white;
 }
 
+.footer_nav a {
+    color: white;
+    text-decoration: none;
+}
+
 /*----------------
      >BUTTONS
 ----------------*/
@@ -181,6 +186,20 @@ footer {
 .ps_logo {
     width: 100%;
     max-width: 120px;
+}
+
+.sie_logo {
+    height: 60px;
+}
+
+
+.footer_nav {
+    list-style: none;
+}
+
+.footer_Pcontent,
+.footer_Pcontent a {
+    color: white;
 }
 
 /*----------------
