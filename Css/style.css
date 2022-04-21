@@ -30,6 +30,10 @@ h5 {
     color: white;
 }
 
+.globe p {
+    color: white;
+}
+
 /*----------------
      >BUTTONS
 ----------------*/
@@ -158,6 +162,25 @@ h5 {
 .container_custom {
     max-width: 768px;
     margin: auto;
+}
+
+
+footer {
+    background-color: #00439c;
+}
+
+.globe {
+    gap: 15px;
+}
+
+.globe_logo {
+    height: 18px;
+    margin-bottom: 14px;
+}
+
+.ps_logo {
+    width: 100%;
+    max-width: 120px;
 }
 
 /*----------------
