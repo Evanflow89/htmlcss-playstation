@@ -118,6 +118,11 @@ h5 {
     border-radius: 15px;
 }
 
+.img_button:hover {
+    transform: translateY(-6px);
+    transition: 0.6ms;
+}
+
 #imageBorder {
     border: 2px solid #0072ce;
     padding: 2px;
