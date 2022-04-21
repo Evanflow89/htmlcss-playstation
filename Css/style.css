@@ -137,6 +137,15 @@ h5 {
     flex-wrap: wrap;
 }
 
+
+.col_custom img {
+    opacity: 0.6;
+}
+
+#active {
+    opacity: 1;
+}
+
 .col_custom:first-of-type {
     border-bottom: 3px solid #0072ce;
 }
