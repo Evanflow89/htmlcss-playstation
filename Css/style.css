@@ -192,6 +192,14 @@ h5 {
     background-color: #bebcbb;
 }
 
+.play_device:hover {
+    border-bottom: 3px solid #0072ce;
+}
+
+.play_device img:hover {
+    opacity: 1;
+}
+
 
 .content_psPlus img,
 .content_psNow img {
