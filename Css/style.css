@@ -53,6 +53,36 @@ h5 {
     background-color: #cd3d0f;
 }
 
+.btn_head:hover {
+    outline: 2px solid #363636;
+    border: 2px solid #fff;
+    transition: 0.7ms;
+}
+
+.btn_hero1:hover {
+    outline: 2px solid #cd3d0f;
+    border: 2px solid #000001;
+    transition: 0.7ms;
+}
+
+.btn_blue:hover {
+    outline: 2px solid #2d64e6;
+    border: 2px solid #fff;
+    transition: 0.7ms;
+}
+
+.btn_Plus:hover {
+    outline: 2px solid #d9dadc;
+    border: 2px solid #bebcbb;
+    transition: 0.7ms;
+}
+
+.btn_Now:hover {
+    outline: 2px solid #f5f5f5;
+    border: 2px solid #161c3b;
+    transition: 0.7ms;
+}
+
 .btn_radius {
     border-radius: 30px;
 
